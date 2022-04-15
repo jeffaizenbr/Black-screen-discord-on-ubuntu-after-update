@@ -1,0 +1,1 @@
+# Black-screen-discord-on-ubuntu-after-update
